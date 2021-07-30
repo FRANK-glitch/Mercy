@@ -1,0 +1,15 @@
+{
+    "Menu_Settings" : "< --- Mercy menu settings. --- >",
+
+    "menu_color" : "GREEN",
+    "style" : "Style_1",
+
+    "Menu_colors" : "< --- Colors for menu --- >",
+
+    "Green": "Green",
+    "Yellow" : "Yellow",
+    "Red" : "Red",
+    "Blue" : "Blue",
+    "Magenta" : "Magenta",
+    "Black" : "Black"
+}

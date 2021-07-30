@@ -1,0 +1,27 @@
+{
+    "Mercy Configuration": "< ---- Configuration ---- >",
+
+    "token": "your-discord-token",
+    "prefix": "!",
+    "nitro_sniper": false,
+
+    "Mercy Customization": "< ---- Mercy customization ---- >",
+
+    "title": "Mercy++",
+    "thumbnail": "https://i.imgur.com/rbAelTj.png",
+    "embedcolor": "0x1D1E20",
+
+    "Mercy Status": "< ---- Mercy status ---- >", 
+
+    "status_one": "example-1",
+    "status_two": "example-2",
+    "status_three": "example-3",
+    "stream_url": "https://www.twitch.tv/omgbeete",
+    "stream_embed_image": "https://i.pinimg.com/originals/ec/fa/37/ecfa37c5f4abaad2f6cf39f4316fb9c7.gif",
+
+    "Mercy Menu Custom": "< ---- Mercy Menu ---- >",
+
+    "title_menu" : "Mercy is back."
+
+
+}
