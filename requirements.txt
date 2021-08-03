@@ -1,8 +1,6 @@
 discord
 colorama
 requests
-time
-os
 base64
 codecs
 datime
